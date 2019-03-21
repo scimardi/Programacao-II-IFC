@@ -1,1 +1,0 @@
-Agora Eu testei o merge com um arquivo conflitante
