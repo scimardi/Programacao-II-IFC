@@ -31,7 +31,7 @@ def add():
 def excluir():
 
     chave = request.args.get("cpf")
-    print(type(chave))
+    #print(type(chave))
     
     for p in lista:
         if p.cpf == int(chave):
